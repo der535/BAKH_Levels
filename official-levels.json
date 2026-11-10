@@ -1,0 +1,22 @@
+{
+    "levels": [
+        {
+            "name": "vaporrrr",
+            "id": "a6a5be4b-bd92-4cb0-8c2d-5423701dc2a9",
+            "version": 6,
+            "fileName": "a6a5be4b-bd92-4cb0-8c2d-5423701dc2a9.zip"
+        },
+        {
+            "name": "Death By Glamour",
+            "id": "ccce1784-dc17-4b50-be04-6dd07ac1dd31",
+            "version": 3,
+            "fileName": "ccce1784-dc17-4b50-be04-6dd07ac1dd31.zip"
+        },
+        {
+            "name": "the Flutter-Cutter",
+            "id": "fb020f7d-3fd5-4771-b920-fde75f0fe255",
+            "version": 4,
+            "fileName": "fb020f7d-3fd5-4771-b920-fde75f0fe255.zip"
+        }
+    ]
+}
